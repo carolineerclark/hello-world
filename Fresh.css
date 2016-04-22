@@ -1,0 +1,40 @@
+nav {
+  position: absolute;
+  z-index: 1;
+  width: 100%;
+  padding:0;
+}
+
+nav ul {
+  text-align: center;
+  font-size: 1.5em;
+  color: #E8CAA4;
+  padding: 0;
+  margin: 0;
+  background-color: #424254;
+}
+
+nav ul li {
+  text-align: center;
+  display: inline-block;
+  font-family: "Helvetica", sans-serif;
+  box-sizing: border-box;
+  height: 2.15em;
+  padding-top: 0.5em;
+}
+
+a {
+  text-decoration: none;
+  color: #E8CAA4;
+  padding: 0.5em;
+}
+
+a:hover {
+  background-color: #64908A;
+  border-width: 20px;
+  padding: 0.5em;
+}
+
+body {
+  margin: 0px;
+}
